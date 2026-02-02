@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vk8pjkf9kRY=",
+  "dgSpecHash": "sCJ20L1mTfo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Tests\\Sample.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Tests\\Sample.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

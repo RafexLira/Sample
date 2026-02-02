@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Tests\\Sample.Tests.csproj": {}
+    "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Tests\\Sample.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Api\\Sample.Api.csproj": {
+    "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Api\\Sample.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Api\\Sample.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Api\\Sample.Api.csproj",
         "projectName": "Sample.Api",
-        "projectPath": "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Api\\Sample.Api.csproj",
+        "projectPath": "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Api\\Sample.Api.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Api\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Tests\\Sample.Tests.csproj": {
+    "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Tests\\Sample.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Tests\\Sample.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Tests\\Sample.Tests.csproj",
         "projectName": "Sample.Tests",
-        "projectPath": "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Tests\\Sample.Tests.csproj",
+        "projectPath": "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Tests\\Sample.Tests.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,8 +106,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Api\\Sample.Api.csproj": {
-                "projectPath": "C:\\Users\\Rafael\\source\\repos\\Sample.Api\\Sample.Api\\Sample.Api.csproj"
+              "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Api\\Sample.Api.csproj": {
+                "projectPath": "C:\\Users\\Rafael\\source\\repos\\Sample\\Sample.Api\\Sample.Api.csproj"
               }
             }
           }
