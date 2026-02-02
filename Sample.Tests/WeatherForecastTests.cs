@@ -21,5 +21,6 @@ namespace SampleApi.Tests
             Assert.NotNull(result);
             Assert.Equal(5, result.Count());
         }
+
     }
 }
